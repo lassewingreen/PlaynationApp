@@ -1,0 +1,4 @@
+PlaynationApp
+=============
+
+Playnation iOS application
